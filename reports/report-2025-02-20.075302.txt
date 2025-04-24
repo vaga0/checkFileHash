@@ -1,0 +1,20 @@
+====================================
+Create Date: 2025-02-20 07:53:02
+Directory: C:\xampp\htdocs\wordpress\wp-content\plugins\demo-plugin\
+Exclude: log\,assets\json\
+====================================
+
+Modified Files:
+  api\calendar-events\calendar-event.php (Old Hash: 3fd495e2625f7a9f6dba4a269105d9d3bfe52f471cf1174fa5746e9d951c9eaa, New Hash: 6c42932a965c155b9da4fea245bec8d671e9d8cb847ebd10669c5a82ff3e3369)
+  assets\js\sign-off-box.js (Old Hash: a169853e4e52e47e3bfc27360520e82698456d0fd854a8ce241e31d2d42f1d92, New Hash: aef499bac9d83fbec71058fcd6fa2651b7f24d614ffddafbcc9631687fca5cdc)
+  assets\templates\sign-off-box.phtml (Old Hash: 1f55c07fb5b7c85f133a0d8cb10d7355a9a45fd3a67d642445309558fa8e7078, New Hash: 92ea8a12d2255a42633fd91b14ae7f806ec7127a768befb93cd9c4a9edb9e255)
+  includes\shortcode\sign-off-box.php (Old Hash: 23a3e8ca11667c310da9486216e9dc06c7658e9baad2d288a68016271467cacf, New Hash: a56cb0f890f797b3fdf64cb3d5fbf8b6291467de18b2ef363f8804bf6dedd2e4)
+Exclude Files:
+  C:\xampp\htdocs\wordpress\wp-content\plugins\demo-plugin\assets\json\noteboard.json
+  C:\xampp\htdocs\wordpress\wp-content\plugins\demo-plugin\assets\json\response.json
+  C:\xampp\htdocs\wordpress\wp-content\plugins\demo-plugin\assets\json\sign.json
+  C:\xampp\htdocs\wordpress\wp-content\plugins\demo-plugin\assets\json\system-menu.json
+  C:\xampp\htdocs\wordpress\wp-content\plugins\demo-plugin\log\demo-debug-log.txt
+  C:\xampp\htdocs\wordpress\wp-content\plugins\demo-plugin\log\demo-debug-login.txt
+  C:\xampp\htdocs\wordpress\wp-content\plugins\demo-plugin\log\demo-role-log.txt
+  C:\xampp\htdocs\wordpress\wp-content\plugins\demo-plugin\log\user-role-change-log.json1

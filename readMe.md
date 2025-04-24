@@ -17,7 +17,14 @@
 
 ## 執行方法
 
-打開命令列下 ```php main.php``` 執行即可
+1. 打開 main.php 修改以下內容為你的掃描目錄跟排除目錄
+```php
+define('TARGET_DIR', 'C:\xampp\htdocs\wordpress\wp-content\plugins\demo-plugin\\');
+define('DEF_EXCLUDE', 'log\\,assets\\json\\');
+```
+
+2. 打開命令列下 ```php main.php``` 執行即可
+
 
   !!! info 詳細設定 與 命令列可用參數直接參考程式內容
 
